@@ -1,4 +1,4 @@
-import { Project } from "https://unpkg.com/leopard@^1/dist/index.esm.js";
+import { Project } from "java.js";
 
 import Stage from "./Stage/Stage.js";
 import Elsa from "./Elsa/Elsa.js";
