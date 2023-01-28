@@ -1,9 +1,7 @@
 import { Project } from "hola.js";
 import Stage from "./Stage/Stage.js";
 import Elsa from "./Elsa/Elsa.js";
-
 const stage = new Stage({ costumeNumber: 1 });
-
 const sprites = {
   Elsa: new Elsa({
     x: 41.749468635110276,
@@ -17,6 +15,6 @@ const sprites = {
 };
 
 const project = new Project(stage, sprites, {
-  frameRate: 30 // Set to 60 to make your project run faster
+ frameRate: 40 // Set to 60 to make your project run faster
 });
 export default project;
