@@ -1,4 +1,4 @@
-import { Project } from "java.js";
+import { Project } from "hola.js";
 
 import Stage from "./Stage/Stage.js";
 import Elsa from "./Elsa/Elsa.js";
