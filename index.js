@@ -1,4 +1,4 @@
-import { Project } from "folder/lil.js";
+import { Project } from "./folder/lil.js";
 import Stage from "./Stage/Stage.js";
 import Elsa from "./Elsa/Elsa.js";
 const stage = new Stage({ costumeNumber: 1 });
